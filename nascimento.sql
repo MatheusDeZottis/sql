@@ -1,0 +1,1 @@
+-- Mostre o nome de todas as pessoas que nasceram após 2000

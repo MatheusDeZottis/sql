@@ -1,0 +1,1 @@
+-- Mostre todos os endereços cadrastados de uma unica pessoa.
