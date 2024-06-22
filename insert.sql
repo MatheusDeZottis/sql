@@ -9,8 +9,8 @@ INSERT INTO pessoa(nome, cpf_cnpj, data_nascimento, sexo, tipo) VALUES
 ('Murrilo', '8888888', '1999-01-09', 'Masculino', 8),
 ('Isabela', '9999999', '1999-01-10', 'Feminino', 9),
 ('Tainara', '10101010', '1984-09-24', 'Feminino', 10),
-('Gabrella', '11111110', '1978-07-22', 'Feminino', 11),
-('Daniel', '12121212', '1965-01-24', 'Masculino', 12);
+('Gabrella', '11111110', '2001-07-22', 'Feminino', 11),
+('Daniel', '12121212', '2000-01-24', 'Masculino', 12);
 
 
 INSERT INTO pessoa_fisica (nome, cpf_cnpj, sexo, data_nascimento, tipo) VALUES
